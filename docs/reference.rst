@@ -1,4 +1,4 @@
-API Reference
+API References
 =============
 
 .. autoclass:: vonage.Client
